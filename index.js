@@ -2,7 +2,7 @@
 //function number one happyHolidays
 
 function happyHolidays() {
-  return "Happy Holidays!";
+  return "Happy holidays!";
 }
 
 //function number two happyHolidaysTo
