@@ -8,7 +8,7 @@ function happyHolidays() {
 //function number two happyHolidaysTo
 
 function happyHolidaysTo(sendto) {
-  return `Happy Holidays, ${sendto}!`;
+  return `Happy holidays, ${sendto}!`;
 }
 
 //function number three happyHolidayTo
